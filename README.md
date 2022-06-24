@@ -2,19 +2,18 @@ Hi there 👋
 
 I'm a developer working in France.
 
+~ NOW
 
-NOW
+* 🔎 Looking for missions
 
-* 🔎 Looking for missions;
+* 🏆 Competing in hackathons
 
-* 🏆 Competing in hackathons;
-
-* 🤖 Learning algorithm Djikastra;
+* 🤖 Learning algorithm Djikastra
 
 * 📈 Learning data science
 
 
-BIO
+~ BIO
 
 * ⚙️ I use daily: .py, .js, .html, .css, .svg
 
@@ -29,7 +28,7 @@ BIO
 * 📫 Reach me: wasaby#6593 on discord
 
 
-LANGUAGES
+~ LANGUAGES
 
 * 🍷 French (native)
 
