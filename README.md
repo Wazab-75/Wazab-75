@@ -5,32 +5,32 @@ I'm a developer working in France.
 
 NOW
 
-🔎 Looking for missions;
+* 🔎 Looking for missions;
 
-🏆 Competing in hackathons;
+* 🏆 Competing in hackathons;
 
-🤖 Learning algorithm Djikastra;
+* 🤖 Learning algorithm Djikastra;
 
-📈 Learning data science
+* 📈 Learning data science
 
 
 BIO
 
-⚙️ I use daily: .py, .js, .html, .css, .svg
+* ⚙️ I use daily: .py, .js, .html, .css, .svg
 
-😎 CEO of Sloops
+* 😎 CEO of Sloops
 
-💅 Developped: Newster, doodling.fr, etc…
+* 💅 Developped: Newster, doodling.fr, etc…
 
-🌱 Craving to learn & meet new people
+* 🌱 Craving to learn & meet new people
 
-💬 Ping me about development, hackathons
-
-📫 Reach me: wasaby#6593 on discord
+* 💬 Ping me about development, hackathons
+ 
+* 📫 Reach me: wasaby#6593 on discord
 
 
 LANGUAGES
 
-🍷 French (native)
+* 🍷 French (native)
 
-🍵 English (fluent)
+* 🍵 English (fluent)
