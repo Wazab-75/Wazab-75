@@ -17,7 +17,7 @@ I'm a developer working in France.
 
 * ⚙️ I use daily: .py, .js, .html, .css, .svg, .cpp
 
-* 😎 CEO of Sloops
+* 😎 CEO of Koios
 
 * 💅 Developped: Newster, doodling.fr, etc…
 
