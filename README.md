@@ -15,7 +15,7 @@ I'm a developer working in France.
 
 ~ BIO
 
-* ⚙️ I use daily: .py, .js, .html, .css, .svg
+* ⚙️ I use daily: .py, .js, .html, .css, .svg, .cpp
 
 * 😎 CEO of Sloops
 
